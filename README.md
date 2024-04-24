@@ -115,7 +115,9 @@ These tables summarize the accuracy of each emotion category for both the test d
 
 ## Conclusion
 
-Emo-Track demonstrates the effectiveness of machine learning in analyzing emotional speech, achieving high accuracies across diverse datasets. By combining feature extraction techniques and Support Vector Machine classification, Emo-Track captures nuanced patterns in speech emotions. Its modular design allows easy integration with new datasets, fostering collaboration and innovation in sentiment analysis. Emo-Track's success highlights the potential of AI in understanding human emotions and advancing affective computing technologies.
+<p style="text-align:justify;">
+    Emo-Track demonstrates the effectiveness of machine learning in analyzing emotional speech, achieving high accuracies across diverse datasets. By combining feature extraction techniques and Support Vector Machine classification, Emo-Track captures nuanced patterns in speech emotions. Its modular design allows easy integration with new datasets, fostering collaboration and innovation in sentiment analysis. Emo-Track's success highlights the potential of AI in understanding human emotions and advancing affective computing technologies.
+</p>
 
 ## Contributing
 
