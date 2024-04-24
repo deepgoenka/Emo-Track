@@ -36,7 +36,7 @@ Emo-Track is a project aimed at analyzing speech sentiment using machine learnin
 
 ## 📊 Features Extracted
 
-From the audio files, 17 features were extracted using MATLAB with a window size of 2048 and overlap of 1024. These features include:
+From the audio files, 17 features were extracted using MATLAB with a Window size of 2048 and Overlap of 1024. These features include:
 
 1. **Mel-Frequency Cepstral Coefficients (MFCC)**: Captures the spectral envelope of a signal.
 2. **Delta MFCC**: First-order derivatives of MFCC coefficients which captures the rate of change of MFCCs over time.
