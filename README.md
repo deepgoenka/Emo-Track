@@ -8,12 +8,16 @@ Emo-Track is a project aimed at analyzing speech sentiment using machine learnin
 
    Link: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 * TESS (Toronto emotional speech set): TESS comprises recordings of North American English speakers producing sentences with specific emotional content. It includes seven basic emotions: angry, disgusted, fearful, happy, sad, surprised, and neutral.
+
   Link: https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 * SAVEE (Surrey Audio-Visual Expressed Emotion): SAVEE consists of British English speakers enunciating different emotions, including neutral, anger, happiness, sadness, fear, disgust, and surprise.
+
   Link: https://www.kaggle.com/datasets/barelydedicated/savee-database
 * EmoDB (Berlin Database of Emotional Speech): EmoDB contains emotional speech recordings of German actors, including seven emotions: anger, boredom, disgust, fear, happiness, sadness, and neutral.
+
   Link: https://www.kaggle.com/datasets/piyushagni5/berlin-database-of-emotional-speech-emodb
 * CREMA-D (Crowd-sourced Emotional Multimodal Actors Dataset): CREMA-D features American English speakers performing sentences with various emotional expressions, including anger, disgust, fear, happiness, sadness, and neutral.
+
   Link: https://www.kaggle.com/datasets/ejlok1/cremad
 
 ## Technology Stack
