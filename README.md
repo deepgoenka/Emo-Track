@@ -1,4 +1,5 @@
-# 🎙️📝 Emo-Track: *A Speech based Sentiment Analysis Model*
+# 🎙️ Emo-Track
+## *A Speech based Sentiment Analysis Model*
 
 Emo-Track is a project aimed at analyzing speech sentiment using machine learning techniques. The project utilizes five datasets: RAVDESS, TESS, SAVEE, EmoDB, and CREMA-D, each containing emotional speech recordings. The emotions considered in this project are Angry, Disgust, Fearful, Happy, and Sad.
 
