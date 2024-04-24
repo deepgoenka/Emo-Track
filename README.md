@@ -1,8 +1,8 @@
-# Emo-Track: *A Speech based Sentiment Analysis Model*
+# 🎙️📝 Emo-Track: *A Speech based Sentiment Analysis Model*
 
 Emo-Track is a project aimed at analyzing speech sentiment using machine learning techniques. The project utilizes five datasets: RAVDESS, TESS, SAVEE, EmoDB, and CREMA-D, each containing emotional speech recordings. The emotions considered in this project are Angry, Disgust, Fearful, Happy, and Sad.
 
-## Datasets Used
+## 📚 Datasets Used
 
 * RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song): This dataset contains recordings of actors speaking and singing in various emotional states, including anger, disgust, fear, happiness, sadness, and neutrality. The dataset also includes demographic information about the actors.
 
@@ -20,7 +20,7 @@ Emo-Track is a project aimed at analyzing speech sentiment using machine learnin
 
   Link: https://www.kaggle.com/datasets/ejlok1/cremad
 
-## 🚀 Technology Stack
+## 🛠️ Technology Stack
 
 - MATLAB: Used for feature extraction from audio files.
 - Python: Utilized for data preprocessing, feature selection, and model training.
@@ -34,7 +34,7 @@ Emo-Track is a project aimed at analyzing speech sentiment using machine learnin
   - StandardScaler: Applied for standardizing the selected features, ensuring uniformity in their scales.
   - Joblib: Used for saving and loading trained models.
 
-## Features Extracted
+## 📊 Features Extracted
 
 From the audio files, 17 features were extracted using MATLAB with a window size of 2048 and overlap of 1024. These features include:
 
@@ -58,7 +58,7 @@ From the audio files, 17 features were extracted using MATLAB with a window size
 
 These features represent various characteristics extracted from audio signals to capture relevant information for sentiment analysis.
 
-## Model Training
+## 🤖 Model Training
 
 **Feature Selection and Preprocessing:**
 - Feature extraction from audio files resulted in a large number of features.
@@ -74,7 +74,7 @@ These features represent various characteristics extracted from audio signals to
 - The model's accuracy was evaluated on a validation set, and the combination of C and gamma yielding the highest accuracy was selected.
 - The chosen model was then saved for future use, allowing for quick and efficient sentiment analysis on new audio samples.
 
-## Results
+## 📈 Results
 
 |               Dataset              |    Best Accuracy    |    C Value   |    Gamma Value   |
 |------------------------------------|---------------------|--------------|------------------|
@@ -87,7 +87,7 @@ These features represent various characteristics extracted from audio signals to
 
 This table provides a concise overview of the best accuracy achieved, along with the corresponding C and gamma values for each dataset and the combined dataset.
 
-## Class-wise Accuracy
+## 🎯 Class-wise Accuracy
 
 **Test Dataset:**
 
@@ -113,14 +113,14 @@ This table provides a concise overview of the best accuracy achieved, along with
 
 These tables summarize the accuracy of each emotion category for both the test dataset and the entire dataset across different datasets used in the project.
 
-## Conclusion
+## 💡 Conclusion
 
 Emo-Track demonstrates the effectiveness of machine learning in analyzing emotional speech, achieving high accuracies across diverse datasets. By combining feature extraction techniques and Support Vector Machine classification, Emo-Track captures nuanced patterns in speech emotions. Its modular design allows easy integration with new datasets, fostering collaboration and innovation in sentiment analysis. Emo-Track's success highlights the potential of AI in understanding human emotions and advancing affective computing technologies.
 
-## Contributing
+## 🌱 Contributing
 
 Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve this project.
 
-## License
+## ⚖️ License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/deepgoenka/Emo-Track/blob/main/LICENSE) file for details.
