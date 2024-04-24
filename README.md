@@ -20,7 +20,7 @@ Emo-Track is a project aimed at analyzing speech sentiment using machine learnin
 
   Link: https://www.kaggle.com/datasets/ejlok1/cremad
 
-## Technology Stack
+## 🚀 Technology Stack
 
 - MATLAB: Used for feature extraction from audio files.
 - Python: Utilized for data preprocessing, feature selection, and model training.
