@@ -1,0 +1,33 @@
+1. MFCC (Mel-Frequency Cepstral Coefficients): These coefficients represent the short-term power spectrum of a sound. They are widely used in speech and speaker recognition due to their effectiveness in capturing the characteristics of human speech sounds.
+
+2. Delta MFCC: These are the first-order derivatives of MFCC coefficients and capture the rate of change of MFCCs over time. They provide information about the dynamic aspects of speech features.
+
+3. DeltaDelta MFCC: Second-order derivatives of MFCC coefficients, providing further information about the acceleration or curvature of MFCCs over time.
+
+4. Mel Spectrogram: A representation of the power spectrum of a sound in the mel-frequency domain. It helps in capturing spectral characteristics that are relevant for human perception.
+
+5. Spectral Flux: It measures the change in spectral energy distribution over time and is useful for detecting sudden changes or transitions in the audio signal.
+
+6. Spectral Skewness: Describes the asymmetry of the spectral distribution. It indicates whether the spectral energy is concentrated more towards higher or lower frequencies.
+
+7. Spectral Slope: Represents the slope of the spectral envelope. It provides information about the overall trend or shape of the spectral content.
+
+8. Spectral Entropy: Measures the randomness or predictability of the spectral distribution. Higher entropy indicates a more diverse spectral content.
+
+9. Spectral Rolloff: The frequency below which a certain percentage (e.g., 85%) of the total spectral energy lies. It characterizes the cutoff frequency of the spectrum.
+
+10. Chromagram: Represents the distribution of energy across pitch classes (notes) in the audio signal. It's useful for capturing tonal characteristics and musical content.
+
+11. LPC (Linear Predictive Coding) Coefficients: These coefficients capture the spectral envelope of the audio signal. They are commonly used in speech processing for source-filter modeling of speech production.
+
+12. Zero Crossing Rate (ZCR): It measures the rate at which the audio signal changes its sign, indicating the frequency of waveform crossings through zero. It can be indicative of the periodicity or rhythmic patterns in speech.
+
+13. Energy: Represents the total energy content of the audio signal. It provides information about the overall loudness or intensity of the speech.
+
+14. Pitch: Indicates the fundamental frequency of the speech signal, which is related to the perceived pitch of the voice.
+
+15. Intensity: Represents the acoustic intensity of the sound, measured in decibels (dB). It provides information about the loudness or volume of the speech.
+
+16. Harmonic-to-Noise Ratio (HNR): Measures the ratio of harmonic components to non-harmonic (noise) components in the speech signal. It helps in distinguishing between voiced and unvoiced segments of speech.
+
+17. RMS (Root Mean Square): It provides a measure of the average power of the signal over time. It is commonly used to estimate the overall amplitude or strength of the speech signal.
